@@ -1,3 +1,3 @@
-This folder contains the dashboard files needed to run the application.
+This folder contains the dashboard files used for this project
 
  
