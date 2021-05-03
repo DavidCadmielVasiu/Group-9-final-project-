@@ -1,6 +1,6 @@
 **Instructions on running the application
 1. Download the database file (AlcoholDataset.csv, location: FinalProject/Databases/AlcoholDataset.csv) and the application/ dashboard file (AlcoholAbuseApp.py, located: FinalProject/Dashboards/AlcoholAbuseApp.py) to a single folder (have both files in a single folder).
-2. Start PyCharm and open the folder with the saved files (AlcoholDataset.csv, and AlcoholAbuseApp.py) in PyCharm.
+2. Start PyCharm and open the folder with the saved files (AlcoholDataset.csv, and AlcoholAbuseApp.py) in PyCharm (make sure they are in the same folder, not inside different folders).
 3. Import any needed dependencies:
   Open the terminal in PyCharm and type in the folowing commands to download the needed dependencies.
   - pip install dash
